@@ -8,7 +8,7 @@ Version:
 """
 import rospy
 import math
-import pid
+import ros_scripts.pid
 import numpy as np
 import sys
 
